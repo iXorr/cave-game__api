@@ -18,5 +18,21 @@
   {
     "login": "awdwadawd1",
     "password": "$2b$10$j7hDqZgLIxfeOxxWSZji4.BAydHToh3GOiCb3TJXSnLnSBNPpzbB."
+  },
+  {
+    "login": "dsad",
+    "password": "$2b$10$68Q8Ur3.auPvKrrsuGNY/OX5uhV7Eg5g.7QAv6cN09/DKrT/010fS"
+  },
+  {
+    "login": "iXorr4",
+    "password": "$2b$10$8bas35I86dSmixe3z6roduveXDNk7yM/ClMUi3U7QjXaCVTsmeb0S"
+  },
+  {
+    "login": "dsadasd",
+    "password": "$2b$10$BmdgMQ1XHpMZgXs63OM7bOF3YD2fJVb895C1uUcH6yWFitEYr47N6"
+  },
+  {
+    "login": null,
+    "password": "$2b$10$AkWnvTo4dFGd1qgfhoLTSOaJ05VnymGeF7HR89COPGAh.ixPKoj8G"
   }
 ]

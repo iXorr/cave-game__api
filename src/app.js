@@ -8,13 +8,13 @@ import './config/env.js'
 const app = express()
 
 app.use(cors({
-  origin: function (origin, callback) {
-    if (!origin || origin !== process.env.FRONTEND_URL) {
-      callback(new Error('Not allowed by CORS'));
-    } else {
-      callback(null, true)
-    }
-  },
+  // origin: function (origin, callback) {
+  //   if (!origin || origin !== process.env.FRONTEND_URL) {
+  //     callback(new Error('Not allowed by CORS'));
+  //   } else {
+  //     callback(null, true)
+  //   }
+  // },
 
   credentials: true,
   allowedHeaders: ['Content-Type', 'Authorization']

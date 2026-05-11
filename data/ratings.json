@@ -1,12 +1,7 @@
 [
   {
-    "collectedDiamonds": 40,
-    "chosenDifficulty": "hard",
-    "userLogin": "iXorr"
-  },
-  {
-    "collectedDiamonds": 29,
-    "chosenDifficulty": "easy",
-    "userLogin": "awdwadawd1"
+    "collectedDiamonds": "example-diamonds-amount",
+    "chosenDifficulty": "example-difficulty",
+    "userLogin": "example-user"
   }
 ]

@@ -34,5 +34,9 @@
   {
     "login": null,
     "password": "$2b$10$AkWnvTo4dFGd1qgfhoLTSOaJ05VnymGeF7HR89COPGAh.ixPKoj8G"
+  },
+  {
+    "login": "test",
+    "password": "$2b$10$2gJIlRFmsxoseewIAeW0EuQx7Fe7W.arJT.PwieE32rTHrw0huxI."
   }
 ]
